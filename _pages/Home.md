@@ -8,29 +8,29 @@ header:
   cta_label: "Vamos a comenzar"
   cta_url: "/get-started"
   caption:
-excerpt: 'Una guia completa de 3DS Custom Firmware, <br /> de fabrica hasta arm9loaderhax.<br />'
+excerpt: 'Una guía completa de 3DS Custom Firmware, <br /> de fábrica hasta arm9loaderhax.<br />'
 ---
 
-**Esta guia necesita de *TU* ayuda para sembrar [estos](https://github.com/Plailect/Guide/archive/master.zip) ([rss](https://plailect.github.io/Guide/rss.xml)) torrents!**
+**Esta guía necesita de *TU* ayuda para sembrar [estos](https://github.com/Plailect/Guide/archive/master.zip) ([rss](https://plailect.github.io/Guide/rss.xml)) torrents!**
 {: .notice--info}
 
-**Para usar los archivos [torrent](https://en.wikipedia.org/wiki/Torrent_file) de esta guia, necesitarás un cliente torrent como [Transmission](https://sourceforge.net/projects/trqtw/files/latest/download)**
+**Para usar los archivos [torrent](https://en.wikipedia.org/wiki/Torrent_file) de esta guía, necesitarás un cliente torrent como [Transmission](https://sourceforge.net/projects/trqtw/files/latest/download)**
 {: .notice--info}
 
-**Lea todas las paginas introductorias antes de comenzar**
+**Lea todas las páginas introductorias antes de comenzar**
 {: .notice--warning}
 
-## Qué es Homebrew?
+## ¿Qué es Homebrew?
 
 [**Homebrew**](https://en.wikipedia.org/wiki/List_of_homebrew_video_games) se refiere usualmente a software que no es autorizado por Nintendo. Permite correr Homebrew, herramientas como quemadores y editores de partidas, y emuladores para sistemas antiguos.
 
 En la mayoría de casos, correr Homebrew es 100% gratuito utilizando el Explorador de Internet. Tambien hay diferentes vulnerabilidades en juegos comerciales para correr Homebrew.
  
-## Que es Custom Firmware?
+## ¿Que es Custom Firmware?
 
-**Custom Firmware** ("CFW") permite usar hacks mas avanzados que homebrew en modo usuario no puede hacer facilmente. Por ejemplo, los parches de firmas te permites instalar titulos sin firmar que aparecen un el menu HOME de la consola.
+**Custom Firmware** ("CFW") permite usar hacks más avanzados que homebrew en modo usuario no puede hacer facilmente. Por ejemplo, los parches de firmas te permiten instalar títulos sin firmar que aparecen un el menu HOME de la consola.
 
-CFW puede ser instalado en cualquier consola que es 9.2.0-20 o inferior. Otras versiones pueden ser bajadas(downgrade), la mayoria de forma grauita o con un juego vulnerable.
+CFW puede ser instalado en cualquier consola que es 9.2.0-20 o inferior. Otras versiones pueden ser bajadas(downgrade), la mayoría de forma grauita o con un juego vulnerable.
 
 ## Que instala esta guía?
 
