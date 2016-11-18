@@ -1,31 +1,30 @@
 ---
-title: "Homebrew Launcher (Browser)"
+title: "Homebrew Launcher (Mavegador)"
 permalink: /homebrew-launcher-(browser).html
 ---
 
-The Homebrew Launcher has many different entrypoints, or methods of launching. The most common is browserhax, which launches the Homebrew Launcher using nothing more than the included browser.
-{: .notice--info}
+El Homebrew Launcher tiene diferentes puntos de entrada, o metodos de ser lanzado. El más comun es browserhax, el cual lanza el Homebrew Launcher usando unicamente el navegador incluido en la consola.
 
-**Browserhax will work for EUR / JPN / USA / KOR regions ONLY!**
+**Browserhax funcionará SOLO en las regiones EUR / JPN / USA / KOR!**
 {: .notice--warning}
 
-#### What you need
+#### ¿Qué necesitas?
 
 + [`config.zip`](images/config.zip)
-+ The [ropbin](https://smealum.github.io/3ds/#otherapp) matching your 3DS's version
-+ The Homebrew [Starter Kit](http://smealum.github.io/ninjhax2/starter.zip)
-+ An internet connection setup on your 3DS
++ El [ropbin](https://smealum.github.io/3ds/#otherapp) correspondiente a la version de tu 3DS
++ El Homebrew [Starter Kit](http://smealum.github.io/ninjhax2/starter.zip)
++ Una conexion a internet configurada en el 3DS
 
-#### Instructions
+#### Instrucciones
 
-##### Section I -  Prep work
+##### Sección I -  Preparación preliminar
 
-1. Copy the contents of `starter.zip` to the root of your SD card
-2. Copy the contents of `config.zip` to the `/3ds/menuhax_manager/` folder on your SD card
-3. Create a folder named `menuhax` on the root of your SD card if it does not already exist
-4. Rename the ropbin to `menuhaxmanager_input_payload.bin`
-5. Copy `menuhaxmanager_input_payload.bin` to the `/menuhax/` folder on your SD card
-4. Reinsert your SD card into your 3DS
+1. Copiar los contenidos de `starter.zip` a la raíz de tu tarjeta SD
+2. Copiar los contenidos de `config.zip` a la carpeta `/3ds/menuhax_manager/` en tu tarjeta SD
+3. Crea la carpeta `menuhax` en la raíz de tu tarjeta SD si no existe todavía
+4. Renombra el ropbon a `menuhaxmanager_input_payload.bin`
+5. Copia `menuhaxmanager_input_payload.bin` a la carpeta `/menuhax/` de tu tarjeta SD
+4. Reinserta tu tarjeta SD en la 3DS
 
 ##### Section II -  Version check bypass
 
